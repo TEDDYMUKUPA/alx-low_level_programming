@@ -1,4 +1,0 @@
-#!/bin/bash
-gcc $CFILE -E -o c
-:wq
-gcc -E %CFILE -o c
