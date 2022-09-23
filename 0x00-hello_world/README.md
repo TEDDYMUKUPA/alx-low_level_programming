@@ -1,1 +1,1 @@
-my first readme
+this directory conyains hello world
